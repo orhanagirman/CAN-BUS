@@ -1,0 +1,4 @@
+deltav_can.c:43:6:CAN_Tx	24	static
+deltav_can.c:69:6:CAN_Start	16	static
+deltav_can.c:85:6:CAN_Rx	16	static
+deltav_can.c:134:6:CAN_FilterConfig	24	static
